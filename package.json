@@ -1,0 +1,24 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "This book store is to get hands dirty with Node, TypeORM and postgres",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon node.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bilal Amjad",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.0.13",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.4",
+    "pg": "^8.2.1",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.25",
+    "consolidate": "*"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
