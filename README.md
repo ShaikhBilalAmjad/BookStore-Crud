@@ -40,7 +40,7 @@ for Readers simply replace books with users
 
 Book Store is currently extended with the following Tables and column.
 
-| Tabke | Columns |
+| Table | Columns |
 | ------ | ------ |
 | books | [id//name/description/author_id] |
 | authors | [author_id/name/age] |
